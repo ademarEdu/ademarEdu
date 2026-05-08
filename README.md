@@ -1,4 +1,4 @@
-## Hi there 👋
+## :computer: Estudiante de Ingeniería en Datos e Inteligencia Artificial.
 
 <!--
 **ademarEdu/ademarEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
