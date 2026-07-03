@@ -1,0 +1,6 @@
+max_lines: 5
+readme_path: ./README.md
+disable_timestamps: false
+ignored_events:
+  - ForkEvent
+  - WatchEvent
