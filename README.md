@@ -1,5 +1,12 @@
 ## :computer: Estudiante de Ingeniería en Datos e Inteligencia Artificial.
 
+---
+
+## :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **ademarEdu/ademarEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
